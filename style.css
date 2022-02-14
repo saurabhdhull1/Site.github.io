@@ -4,9 +4,7 @@ body {
   font-family: "Merriweather Sans", sans-serif;
   color: #272c2b;
 }
-.center{
-  display:flex;
-  align-item:center;
+
 h1 {
   font-family: "Sacramento", cursive;
   font-size: 562%;
@@ -122,10 +120,6 @@ a:hover{
 form{
   text-align: left;
 }
-
-
-}
-
 
 .btn {
   background: #daf7f8;
